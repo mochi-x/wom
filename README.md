@@ -1,24 +1,29 @@
-# 📝 wom
+# 📝 WOM
 
-## Project setup
+<img src='https://img.shields.io/badge/license-MIT-green'>
+
+## What is WOM
+
+WOM is simple markdown. ( for write )  
+You can output markdown by pressing ctr + enterKey when to some extent accumulated markdown text.  
+File naming is `YYYYMMDD_HHmmss.md`.
+
+## Getting Started
+
+### Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm run electron:serve
 ```
 
 ### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
 ```
-npm run lint
+npm run electron:build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
