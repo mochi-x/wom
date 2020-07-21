@@ -1,4 +1,4 @@
-# wom
+# 📝 wom
 
 ## Project setup
 ```
