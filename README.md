@@ -4,7 +4,7 @@
 
 ## What is WOM
 
-WOM is simple markdown. ( for write )  
+WOM is simple markdown editor. ( for write )  
 You can output markdown by pressing ctr + enterKey when to some extent accumulated markdown text.  
 File naming is `YYYYMMDD_HHmmss.md`.
 
